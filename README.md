@@ -33,3 +33,9 @@ The task is **episodic**, and in order to solve the environment, the agent must 
 
 2. Place the file in the main `p1-navigation-drlnd/` folder, and unzip (or decompress) the file.
 3. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
+
+## Project Files
+- `Navigation.ipynb`: fully functional code for creating and training the agent.
+- `README.md`: markdown file that describes the project environment details.
+- `Report.pdf`: report that describes the learning algorithm, along with the chosen hyperparameters and the model architectures. In addition to a plot of rewards per episode and ideas for future work.
+- `checkpoint.pth`: file with the saved model weights of the successful agent.
